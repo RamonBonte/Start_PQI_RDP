@@ -1,7 +1,7 @@
 # Start_PQI_RDP
 
 ## Aim
-Being able to use Progenesis QI without licensing problems when you are login through a RDP connection.
+Being able to use Progenesis QI without licensing problems when you are logged in using RDP.
 This .bat file will allow you to open existing Progenesis QI experiments and make and license new experiments with the dongle.
 
 ## Prerequisites
@@ -34,13 +34,19 @@ This .bat file will allow you to open existing Progenesis QI experiments and mak
 1. Locate the bat file
 2. Right-click on the bat file
 3. Click on Run as administrator
-4. The file will be executed. As result your RDP connection will be terminated and Progenesis QI will be launch by the local user.
+4. The file will be executed. As a result your RDP connection will be terminated and Progenesis QI will be launch by the local user.
 
 **Next**
 5. Login on your remote pc
 6. Progenesis QI will be launched and will recognize the dongle when you open an experiment.
+7. You can close the terminal window by hitting the spacebar
+
+## Known limitations
+1. Only 1 PQI experiment can be opened this way
 
 
+## To be tested
+- Opening multiple experiments. So you can analyze ESI-(+) and ESI-(-) simultaneously
 
 
 
