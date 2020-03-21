@@ -5,7 +5,7 @@ Being able to use Progenesis QI without licensing problems when you are login th
 This .bat file will allow you to open existing Progenesis QI experiments and make and license new experiments with the dongle.
 
 ## Prerequisites
-- Progenesis QI with a dongle on a remote pc (Tested with Progenesis V2.4 & Windows 10 PRO (build))
+- Progenesis QI with a dongle on a remote pc (Tested with Progenesis V2.4 & Windows 10 Pro (build 1903))
 - Administrator rights on the remote pc
 - Your current RDP session id 
   
