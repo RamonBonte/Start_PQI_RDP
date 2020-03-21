@@ -25,7 +25,7 @@ This .bat file will allow you to open existing Progenesis QI experiments and mak
 2. Click File > Open...
 3. Change the filter to _All Files_
 4. Locate the saved bat - file and open it
-5. Change tscon _1_ /dest:console into tscon _your id_ /dest:console
+5. Change tscon **1** /dest:console into tscon **"your id"** /dest:console
 6. Save the changes you made
 
 **Please note:** That Progenesis QI is installed on the default location on my pc. If you installed Progenesis QI on a different location. You also have to change the second line in the bat file to match the path where Progenesis QI is currently installed on our pc.
