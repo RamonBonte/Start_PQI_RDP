@@ -37,12 +37,12 @@ This .bat file will allow you to open existing Progenesis QI experiments and mak
 4. The file will be executed. As a result your RDP connection will be terminated and Progenesis QI will be launch by the local user.
 
 **Next**
-5. Login on your remote pc
-6. Progenesis QI will be launched and will recognize the dongle when you open an experiment.
-7. You can close the terminal window by hitting the spacebar
+1. Login on your remote pc with RDP
+2. Progenesis QI will be launched and will recognize the dongle when you open an experiment.
+3. You can close the terminal window by hitting the spacebar
 
-## Known limitations
-1. Only 1 PQI experiment can be opened this way
+## Known limitation
+- Only 1 PQI experiment can be opened this way
 
 
 ## To be tested
